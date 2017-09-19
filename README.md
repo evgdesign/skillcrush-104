@@ -7,3 +7,4 @@ This repository exists so you can practice cloning GitHub repos, and also forkin
 
 Have fun!
 # wp-skillshare-repo-project
+# wp-skillshare-repo-project
